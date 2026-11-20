@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T16:06:25.141Z",
+  "generated_at": "2026-11-20T16:09:11.540Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -76,6 +76,19 @@
       "path": "problems/0071-calculate-root-mean-square-error-rmse",
       "first_solved_at": "2026-11-20T16:05:39.168Z",
       "last_pushed_at": "2026-11-20T16:06:24.427Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:93": {
+      "kind": "problem",
+      "id": "93",
+      "title": "Calculate Mean Absolute Error (MAE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/93",
+      "path": "problems/0093-calculate-mean-absolute-error-mae",
+      "first_solved_at": "2026-11-20T16:09:10.794Z",
+      "last_pushed_at": "2026-11-20T16:09:10.794Z",
       "language": "python",
       "lines": 16
     }
